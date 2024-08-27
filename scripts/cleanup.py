@@ -8,3 +8,9 @@ def cleanup_logs():
 
 if __name__ == "__main__":
     cleanup_logs()
+
+
+# Path: utilities/heap_utils.py
+import heapq
+
+# The rest of Joes code must be added here...

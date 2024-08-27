@@ -1,0 +1,4 @@
+# config/example_config.yaml
+heap_settings:
+  initial_data: [10, 20, 15, 30, 40]
+  display_mode: "compact"
