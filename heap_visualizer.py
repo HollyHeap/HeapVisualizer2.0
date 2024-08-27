@@ -53,7 +53,7 @@ def double_heap_values(heap):
 
 def sum_heap(heap):
     """
-    Calculate the sum of all heap values.
+    Calculate the sum of all heap elements and variables
     """
     total = sum(heap)
     logging.debug("Sum of heap values: %d", total)
