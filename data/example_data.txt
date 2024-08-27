@@ -1,0 +1,2 @@
+# data/example_data.txt
+10, 20, 15, 30, 40
